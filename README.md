@@ -1,2 +1,0 @@
-# myprime
-Created with CodeSandbox
